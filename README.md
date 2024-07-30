@@ -3,7 +3,7 @@
 
 I am a dedicated Next.js developer with a passion for leveraging the latest cutting-edge technologies to build innovative solutions. Currently, I am expanding my expertise by diving into the world of cloud-native applied generative AI. Throughout my journey, I have worked on various projects that demonstrate my ability to integrate modern tech stacks and deliver high-quality, scalable applications. My continuous learning and hands-on experience drive me to stay at the forefront of technological advancements.
 - 👀 I’m interested in web development, AI, and cloud computing.
-![Static Badge](https://img.shields.io/badge/Reactjs-blue?style=for-the-badge&logoSize=auto)
+- ![Static Badge](https://img.shields.io/badge/Reactjs-blue?style=for-the-badge&logoSize=auto)
 
 
 
