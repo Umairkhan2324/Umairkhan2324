@@ -38,12 +38,12 @@ Welcome to my GitHub profile! I'm a passionate student and developer focused on 
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Umair Khan(https://www.linkedin.com/in/umair-khan-7b87a4146/)](#)
+- LinkedIn: [[Umair Khan](https://www.linkedin.com/in/umair-khan-7b87a4146/)](#)
 - Email: [asadsher2324@gmail.com](mailto:asadsher2324@gmail.com)
 
 ## 💼 Portfolio
 
-Feel free to explore my [portfolio website(https://portfolio-muhammad-umair-khans-projects.vercel.app/)](#) where I showcase some of my favorite projects, share blog posts, and more!
+Feel free to explore my [[portfolio website](https://portfolio-muhammad-umair-khans-projects.vercel.app/)](#) where I showcase some of my favorite projects, share blog posts, and more!
 
 ## ⚡ Fun Fact
 
