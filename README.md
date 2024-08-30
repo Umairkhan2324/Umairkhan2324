@@ -19,16 +19,16 @@ Welcome to my GitHub profile! I'm a passionate student and developer focused on 
 ### 🔥 Next.js 14 Projects
 - **[MUKS MART](#)**: Fullstack ecommerce website.
 - Tech stack used:
-- *sanity
-- *Nextjs14(app router)
-- *tailwindcss
-- *shadcnui
+- Sanity
+- Nextjs14(app router)
+- Tailwindcss
+- Shadcnui
 - **[Tasaveer](#)**: Online Photo gallery.
 - Tech stack used:
-- *nextj14.2(approuter)
-- *tailwindcss
-- *shadcnui
-- *CloudinaryAPI
+- Nextj14.2(approuter)
+- Tailwindcss
+- Shadcnui
+- CloudinaryAPI
 
 ## 📈 GitHub Stats
 
@@ -38,12 +38,12 @@ Welcome to my GitHub profile! I'm a passionate student and developer focused on 
 
 ## 📫 Get in Touch
 
-- LinkedIn: [[Umair Khan](https://www.linkedin.com/in/umair-khan-7b87a4146/)](#)
+- LinkedIn: [[Umair Khan](https://www.linkedin.com/in/umair-khan-7b87a4146/)]
 - Email: [asadsher2324@gmail.com](mailto:asadsher2324@gmail.com)
 
 ## 💼 Portfolio
 
-Feel free to explore my [[portfolio website](https://portfolio-muhammad-umair-khans-projects.vercel.app/)](#) where I showcase some of my favorite projects, share blog posts, and more!
+Feel free to explore my [[portfolio website](https://portfolio-muhammad-umair-khans-projects.vercel.app/)] where I showcase some of my favorite projects, share blog posts, and more!
 
 ## ⚡ Fun Fact
 
