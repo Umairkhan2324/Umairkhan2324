@@ -1,4 +1,4 @@
-# Hi there, I'm [Umair Khan] 👋
+# Hi there, I'm Umair Khan👋
 
 Welcome to my GitHub profile! I'm a passionate student and developer focused on Generative AI, Next.js, and Python. Here, you'll find a collection of my projects and contributions, ranging from web development to artificial intelligence.
 
@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate student and developer focused on 
 
 ## 📫 Get in Touch
 
-- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/umair-khan-7b87a4146/)](#)
+- LinkedIn: [[Umair Khan](https://www.linkedin.com/in/umair-khan-7b87a4146/)](#)
 - Email: [asadsher2324@gmail.com](mailto:asadsher2324@gmail.com)
 
 ## 💼 Portfolio
@@ -47,7 +47,7 @@ Feel free to explore my [[portfolio website](https://portfolio-muhammad-umair-kh
 
 ## ⚡ Fun Fact
 
-When I'm not coding, you can find me [Your Hobby] or exploring the latest trends in AI and web development.
+When I'm not coding, you can find me watching scientific movies or exploring the latest trends in AI and web development.
 
 ---
 
